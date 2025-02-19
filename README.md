@@ -8,6 +8,7 @@ This project visualizes and animates a GPS-tracked route using Folium and Timest
 ✅ Plots real-world routes (e.g., Chicago → Michigan)
 ✅ Generates an interactive HTML file to view routes
 
+
 📂 Project Structure
 
 📦 route-map-project
