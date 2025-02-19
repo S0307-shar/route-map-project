@@ -1,6 +1,7 @@
 📌 Route Map Project
 This project visualizes and animates a GPS-tracked route using Folium and Timestamped GeoJSON.
 
+
 📍 Features
 ✅ Tracks vehicle movement over time
 ✅ Visualizes speed data on the route
